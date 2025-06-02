@@ -15,10 +15,10 @@ from transformers import Pix2StructProcessor, Pix2StructForConditionalGeneration
 IMAGE_FOLDER = "/home/ooti-gpu/Desktop/HG/training_data"  # Replace with the actual path to your image folder
 CSV_FILE = "/home/ooti-gpu/Desktop/HG/training_data_label.csv"      # Replace with the actual path to your CSV file
 MODEL_NAME = "google/pix2struct-base"
-BATCH_SIZE = 2
+BATCH_SIZE = 16
 GRADIENT_ACCUMULATION_STEPS = 4  # Accumulate gradients over 8 micro-batches (effective batch size = 8)
 LEARNING_RATE = 5e-5
-NUM_EPOCHS = 1
+NUM_EPOCHS = 100
 OUTPUT_DIR = "/home/ooti-gpu/Desktop/HG/pix2struct_eggshell_digits"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
