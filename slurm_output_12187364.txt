@@ -1,0 +1,299 @@
+Loading and preparing dataset...
+Loading processor and model...
+Starting training...
+Epoch 1/400, Average Validation Loss: 0.9993
+Saving best model...
+Epoch 2/400, Average Validation Loss: 0.8976
+Saving best model...
+Epoch 3/400, Average Validation Loss: 0.8863
+Saving best model...
+Epoch 4/400, Average Validation Loss: 0.8917
+Epoch 5/400, Average Validation Loss: 0.8833
+Saving best model...
+Epoch 6/400, Average Validation Loss: 0.8662
+Saving best model...
+Epoch 7/400, Average Validation Loss: 0.7672
+Saving best model...
+Epoch 8/400, Average Validation Loss: 0.7913
+Epoch 9/400, Average Validation Loss: 0.7349
+Saving best model...
+Epoch 10/400, Average Validation Loss: 0.7260
+Saving best model...
+Epoch 11/400, Average Validation Loss: 0.7283
+Epoch 12/400, Average Validation Loss: 0.7055
+Saving best model...
+Epoch 13/400, Average Validation Loss: 0.7050
+Saving best model...
+Epoch 14/400, Average Validation Loss: 0.7012
+Saving best model...
+Epoch 15/400, Average Validation Loss: 0.7016
+Epoch 16/400, Average Validation Loss: 0.6994
+Saving best model...
+Epoch 17/400, Average Validation Loss: 0.7623
+Epoch 18/400, Average Validation Loss: 0.7078
+Epoch 19/400, Average Validation Loss: 0.7020
+Epoch 20/400, Average Validation Loss: 0.7001
+Epoch 21/400, Average Validation Loss: 0.6964
+Saving best model...
+Epoch 22/400, Average Validation Loss: 0.6945
+Saving best model...
+Epoch 23/400, Average Validation Loss: 0.7014
+Epoch 24/400, Average Validation Loss: 0.6962
+Epoch 25/400, Average Validation Loss: 0.6961
+Epoch 26/400, Average Validation Loss: 0.6894
+Saving best model...
+Epoch 27/400, Average Validation Loss: 0.7007
+Epoch 28/400, Average Validation Loss: 0.6767
+Saving best model...
+Epoch 29/400, Average Validation Loss: 0.6834
+Epoch 30/400, Average Validation Loss: 0.6913
+Epoch 31/400, Average Validation Loss: 0.6759
+Saving best model...
+Epoch 32/400, Average Validation Loss: 0.6661
+Saving best model...
+Epoch 33/400, Average Validation Loss: 0.6670
+Epoch 34/400, Average Validation Loss: 0.6589
+Saving best model...
+Epoch 35/400, Average Validation Loss: 0.6559
+Saving best model...
+Epoch 36/400, Average Validation Loss: 0.6906
+Epoch 37/400, Average Validation Loss: 0.6358
+Saving best model...
+Epoch 38/400, Average Validation Loss: 0.6579
+Epoch 39/400, Average Validation Loss: 0.6456
+Epoch 40/400, Average Validation Loss: 0.6391
+Epoch 41/400, Average Validation Loss: 0.6463
+Epoch 42/400, Average Validation Loss: 0.6359
+Epoch 43/400, Average Validation Loss: 0.6470
+Epoch 44/400, Average Validation Loss: 0.6260
+Saving best model...
+Epoch 45/400, Average Validation Loss: 0.6146
+Saving best model...
+Epoch 46/400, Average Validation Loss: 0.6180
+Epoch 47/400, Average Validation Loss: 0.6130
+Saving best model...
+Epoch 48/400, Average Validation Loss: 0.6203
+Epoch 49/400, Average Validation Loss: 0.6245
+Epoch 50/400, Average Validation Loss: 0.6338
+Epoch 51/400, Average Validation Loss: 0.6286
+Epoch 52/400, Average Validation Loss: 0.6325
+Epoch 53/400, Average Validation Loss: 0.6214
+Epoch 54/400, Average Validation Loss: 0.6016
+Saving best model...
+Epoch 55/400, Average Validation Loss: 0.6126
+Epoch 56/400, Average Validation Loss: 0.6234
+Epoch 57/400, Average Validation Loss: 0.6049
+Epoch 58/400, Average Validation Loss: 0.6028
+Epoch 59/400, Average Validation Loss: 0.6078
+Epoch 60/400, Average Validation Loss: 0.6023
+Epoch 61/400, Average Validation Loss: 0.5983
+Saving best model...
+Epoch 62/400, Average Validation Loss: 0.6006
+Epoch 63/400, Average Validation Loss: 0.6153
+Epoch 64/400, Average Validation Loss: 0.6165
+Epoch 65/400, Average Validation Loss: 0.6051
+Epoch 66/400, Average Validation Loss: 0.5991
+Epoch 67/400, Average Validation Loss: 0.5966
+Saving best model...
+Epoch 68/400, Average Validation Loss: 0.5924
+Saving best model...
+Epoch 69/400, Average Validation Loss: 0.6253
+Epoch 70/400, Average Validation Loss: 0.6023
+Epoch 71/400, Average Validation Loss: 0.5842
+Saving best model...
+Epoch 72/400, Average Validation Loss: 0.5721
+Saving best model...
+Epoch 73/400, Average Validation Loss: 0.5567
+Saving best model...
+Epoch 74/400, Average Validation Loss: 0.5731
+Epoch 75/400, Average Validation Loss: 0.5473
+Saving best model...
+Epoch 76/400, Average Validation Loss: 0.5582
+Epoch 77/400, Average Validation Loss: 0.5583
+Epoch 78/400, Average Validation Loss: 0.5620
+Epoch 79/400, Average Validation Loss: 0.5379
+Saving best model...
+Epoch 80/400, Average Validation Loss: 0.5086
+Saving best model...
+Epoch 81/400, Average Validation Loss: 0.5542
+Epoch 82/400, Average Validation Loss: 0.5196
+Epoch 83/400, Average Validation Loss: 0.5558
+Epoch 84/400, Average Validation Loss: 0.5351
+Epoch 85/400, Average Validation Loss: 0.5145
+Epoch 86/400, Average Validation Loss: 0.5013
+Saving best model...
+Epoch 87/400, Average Validation Loss: 0.5182
+Epoch 88/400, Average Validation Loss: 0.5205
+Epoch 89/400, Average Validation Loss: 0.4891
+Saving best model...
+Epoch 90/400, Average Validation Loss: 0.4738
+Saving best model...
+Epoch 91/400, Average Validation Loss: 0.4728
+Saving best model...
+Epoch 92/400, Average Validation Loss: 0.5158
+Epoch 93/400, Average Validation Loss: 0.5671
+Epoch 94/400, Average Validation Loss: 0.4935
+Epoch 95/400, Average Validation Loss: 0.5369
+Epoch 96/400, Average Validation Loss: 0.4427
+Saving best model...
+Epoch 97/400, Average Validation Loss: 0.4449
+Epoch 98/400, Average Validation Loss: 0.4994
+Epoch 99/400, Average Validation Loss: 0.4106
+Saving best model...
+Epoch 100/400, Average Validation Loss: 0.4426
+Epoch 101/400, Average Validation Loss: 0.4098
+Saving best model...
+Epoch 102/400, Average Validation Loss: 0.4022
+Saving best model...
+Epoch 103/400, Average Validation Loss: 0.5086
+Epoch 104/400, Average Validation Loss: 0.5187
+Epoch 105/400, Average Validation Loss: 0.4581
+Epoch 106/400, Average Validation Loss: 0.4146
+Epoch 107/400, Average Validation Loss: 0.3349
+Saving best model...
+Epoch 108/400, Average Validation Loss: 0.5122
+Epoch 109/400, Average Validation Loss: 0.3845
+Epoch 110/400, Average Validation Loss: 0.3616
+Epoch 111/400, Average Validation Loss: 0.3757
+Epoch 112/400, Average Validation Loss: 0.3491
+Epoch 113/400, Average Validation Loss: 0.3741
+Epoch 114/400, Average Validation Loss: 0.3226
+Saving best model...
+Epoch 115/400, Average Validation Loss: 0.3021
+Saving best model...
+Epoch 116/400, Average Validation Loss: 0.3168
+Epoch 117/400, Average Validation Loss: 0.2864
+Saving best model...
+Epoch 118/400, Average Validation Loss: 0.2583
+Saving best model...
+Epoch 119/400, Average Validation Loss: 0.3589
+Epoch 120/400, Average Validation Loss: 0.2914
+Epoch 121/400, Average Validation Loss: 0.3128
+Epoch 122/400, Average Validation Loss: 0.2167
+Saving best model...
+Epoch 123/400, Average Validation Loss: 0.2028
+Saving best model...
+Epoch 124/400, Average Validation Loss: 0.2765
+Epoch 125/400, Average Validation Loss: 0.2275
+Epoch 126/400, Average Validation Loss: 0.2766
+Epoch 127/400, Average Validation Loss: 0.2502
+Epoch 128/400, Average Validation Loss: 0.2724
+Epoch 129/400, Average Validation Loss: 0.2284
+Epoch 130/400, Average Validation Loss: 0.2570
+Epoch 131/400, Average Validation Loss: 0.2574
+Epoch 132/400, Average Validation Loss: 0.2383
+Epoch 133/400, Average Validation Loss: 0.2044
+Epoch 134/400, Average Validation Loss: 0.1854
+Saving best model...
+Epoch 135/400, Average Validation Loss: 0.1749
+Saving best model...
+Epoch 136/400, Average Validation Loss: 0.2632
+Epoch 137/400, Average Validation Loss: 0.1881
+Epoch 138/400, Average Validation Loss: 0.3123
+Epoch 139/400, Average Validation Loss: 0.1939
+Epoch 140/400, Average Validation Loss: 0.1771
+Epoch 141/400, Average Validation Loss: 0.1792
+Epoch 142/400, Average Validation Loss: 0.1949
+Epoch 143/400, Average Validation Loss: 0.1586
+Saving best model...
+Epoch 144/400, Average Validation Loss: 0.1463
+Saving best model...
+Epoch 145/400, Average Validation Loss: 0.2095
+Epoch 146/400, Average Validation Loss: 0.1197
+Saving best model...
+Epoch 147/400, Average Validation Loss: 0.1464
+Epoch 148/400, Average Validation Loss: 0.1450
+Epoch 149/400, Average Validation Loss: 0.1969
+Epoch 150/400, Average Validation Loss: 0.1786
+Epoch 151/400, Average Validation Loss: 0.1581
+Epoch 152/400, Average Validation Loss: 0.1272
+Epoch 153/400, Average Validation Loss: 0.1854
+Epoch 154/400, Average Validation Loss: 0.1149
+Saving best model...
+Epoch 155/400, Average Validation Loss: 0.1149
+Saving best model...
+Epoch 156/400, Average Validation Loss: 0.0850
+Saving best model...
+Epoch 157/400, Average Validation Loss: 0.1196
+Epoch 158/400, Average Validation Loss: 0.2174
+Epoch 159/400, Average Validation Loss: 0.1243
+Epoch 160/400, Average Validation Loss: 0.0875
+Epoch 161/400, Average Validation Loss: 0.0913
+Epoch 162/400, Average Validation Loss: 0.0979
+Epoch 163/400, Average Validation Loss: 0.0952
+Epoch 164/400, Average Validation Loss: 0.0978
+Epoch 165/400, Average Validation Loss: 0.1620
+Epoch 166/400, Average Validation Loss: 0.1065
+Epoch 167/400, Average Validation Loss: 0.1214
+Epoch 168/400, Average Validation Loss: 0.1806
+Epoch 169/400, Average Validation Loss: 0.0753
+Saving best model...
+Epoch 170/400, Average Validation Loss: 0.0851
+Epoch 171/400, Average Validation Loss: 0.1097
+Epoch 172/400, Average Validation Loss: 0.0769
+Epoch 173/400, Average Validation Loss: 0.1397
+Epoch 174/400, Average Validation Loss: 0.0934
+Epoch 175/400, Average Validation Loss: 0.2133
+Epoch 176/400, Average Validation Loss: 0.0948
+Epoch 177/400, Average Validation Loss: 0.0670
+Saving best model...
+Epoch 178/400, Average Validation Loss: 0.0984
+Epoch 179/400, Average Validation Loss: 0.0813
+Epoch 180/400, Average Validation Loss: 0.0634
+Saving best model...
+Epoch 181/400, Average Validation Loss: 0.1921
+Epoch 182/400, Average Validation Loss: 0.1846
+Epoch 183/400, Average Validation Loss: 0.0981
+Epoch 184/400, Average Validation Loss: 0.0749
+Epoch 185/400, Average Validation Loss: 0.0763
+Epoch 186/400, Average Validation Loss: 0.2450
+Epoch 187/400, Average Validation Loss: 0.1581
+Epoch 188/400, Average Validation Loss: 0.0650
+Epoch 189/400, Average Validation Loss: 0.0470
+Saving best model...
+Epoch 190/400, Average Validation Loss: 0.0559
+Epoch 191/400, Average Validation Loss: 0.0650
+Epoch 192/400, Average Validation Loss: 0.0680
+Epoch 193/400, Average Validation Loss: 0.1589
+Epoch 194/400, Average Validation Loss: 0.1146
+Epoch 195/400, Average Validation Loss: 0.0585
+Epoch 196/400, Average Validation Loss: 0.0616
+Epoch 197/400, Average Validation Loss: 0.0915
+Epoch 198/400, Average Validation Loss: 0.0879
+Epoch 199/400, Average Validation Loss: 0.0632
+Epoch 200/400, Average Validation Loss: 0.0896
+Epoch 201/400, Average Validation Loss: 0.1213
+Epoch 202/400, Average Validation Loss: 0.1375
+Epoch 203/400, Average Validation Loss: 0.1464
+Epoch 204/400, Average Validation Loss: 0.1024
+Epoch 205/400, Average Validation Loss: 0.0746
+Epoch 206/400, Average Validation Loss: 0.0989
+Epoch 207/400, Average Validation Loss: 0.0609
+Epoch 208/400, Average Validation Loss: 0.1073
+Epoch 209/400, Average Validation Loss: 0.0942
+Early stopping triggered.
+Saving trained model...
+Trained model saved to /home/shossain/inhouse_project/HG_EGG/HG_Data/pix2struct_eggshell_digits
+Starting evaluation...
+['09252', '09706', '09760', '09235', '09791', '09240', '09091', '04110', '09792', '09791', '04158', '09246', '09053', '04122', '09093', '09205', '09780', '04153', '09012', '09027', '04173', '09217', '09002', '09227', '04132', '09269', '04173', '09212', '04134', '09721', '09097', '04113', '09001', '09070', '09053', '09074', '09100', '09087', '09047', '09232', '04113', '09749', '09286', '04117', '09794', '09745', '09095', '09797', '09747', '09773', '09095', '09240', '09222', '09792', '09792', '04136', '09043', '09071', '04173', '09706', '04162', '04134', '09002', '09262', '09225', '09707', '09224', '09010', '09747', '04177', '09087', '09798', '09011', '09722', '09030', '04117', '04122', '09227', '09798', '09780', '09217', '09780', '09032', '04129', '09725', '04121', '09002', '09025', '09097', '09053', '09038', '09722', '09011', '04110', '09706', '09730', '04174', '09237', '09002', '09269', '09010', '09274', '04174', '09075', '04173', '09250', '09240', '09739', '09783', '09759', '09096', '09272', '09282', '09237', '09297', '09097', '04121', '09747', '09274', '09794', '04122', '04166', '09256', '09255', '09278', '09067', '09707', '09799', '09280', '09075', '09067', '09763', '09764', '04140', '09383', '09765', '09780', '09001', '04180', '04120', '09220', '04122', '09276', '09077', '09780', '09730', '09299', '04129', '09221', '04122', '09058', '09799', '09241', '04122', '09209', '09246', '09760', '09213', '04111', '09792', '09280', '04135', '09240', '09274', '09248', '04159', '09017', '09707', '04162', '09213', '04118', '09778', '09299', '09027', '09090', '09093', '04120', '04121', '09759', '09784', '09728', '09070', '04140', '09071', '04136', '09245', '09718', '04113', '09025', '09286', '09028', '04157', '09269', '09745', '04127', '04127', '09278', '09286', '09799', '09028', '09776', '09747', '09759', '09209', '09063', '09749', '09239', '09023', '04110', '09011', '09025', '04179', '04173', '09794', '09022', '04272', '04157', '04139', '09085', '04121', '09100', '04170', '09232', '09224', '09049', '09227', '04122', '04138', '04111', '04138', '09038', '09780', '04161', '04121', '04139', '09765', '04129', '09765', '09747', '04158', '09252', '04122', '04151', '04126', '04158', '04151', '09068', '09017', '04121', '09778', '04117', '09272', '09090', '04166', '09239', '04138', '04404', '09760', '04121', '09034', '09784', '09794', '09096', '09238', '04122', '09248', '09296', '09235', '09778', '09265', '09041', '04155', '09289', '09798', '09051', '04108', '04272', '09097', '04174', '09742', '09246', '04120', '04122', '09221', '09004', '09760', '09039', '09093', '09087', '09280', '09762', '09746', '09039', '04108', '09044', '09280', '04121', '09747', '04113', '04122', '09004', '09071', '09780', '09745', '09241', '09022', '09763', '09221', '09240', '04158', '09240', '09248', '09238', '09786', '09024', '04136', '09798', '09085', '09265', '04173', '09721', '09042', '09077', '04122', '09287', '09224', '09295', '09256', '09297', '09734', '04108', '09089', '09217', '09212', '09005', '09074', '09252', '09274', '09038', '09286', '09025', '09222', '04139', '09031', '09721', '09232', '09016', '09212', '09721', '09258', '09717', '09717', '09721', '09214', '09770', '04118', '09798', '09288', '09039', '09232', '09053', '09799', '04138', '09077', '09095', '09287', '09710', '09279', '09001', '04155', '09235', '09208', '09728', '04179', '09795', '09271', '09252', '09760', '04120', '09258', '09012', '09736', '09299', '09232', '09799', '09046', '04111', '09224', '09253', '04122', '09010', '04161', '09049', '04157', '09232', '04122', '09262', '09279', '09020', '09075', '04173', '09070', '04135', '09085', '04117', '09707', '04122', '09080', '09721', '04106', '04129', '09717', '04155', '04134', '04104', '09206', '09742', '09798', '04155', '09749', '09218', '09717', '09728', '09029', '09027', '04151', '09093', '04161', '09287', '04120', '04129', '04117', '04129', '09048', '04110', '04129', '09797', '04166', '09089', '04126', '04122', '09096', '09213', '04173', '09786', '09202', '09794', '09232', '09718', '04104', '09054', '09085', '09048', '09038', '09267', '09799', '04162', '09043', '09241', '04122', '04136', '09707', '04178', '09765', '09010', '09041', '09084', '09292', '09208', '04161', '09299', '09742', '04139', '04140', '09058', '09765', '04155', '09233', '09014', '09010', '09023', '09012', '09256', '09776', '04173', '09760', '09791', '04126', '09053', '09276', '09739', '09299', '09063', '04120', '09250', '09730', '09795', '09780', '09238', '09071', '09045', '04122', '09280', '09025', '04151', '09055', '09231', '09044', '09206', '09054', '09300', '09217', '09012', '04179', '04113', '04134', '09213', '09049', '09218', '09202', '09706', '09260', '09238', '09725', '09031', '09798', '09046', '09012', '09050', '04158', '09029', '09778', '04173', '09232', '09041', '04104', '09232', '04157', '09749', '09068', '09760', '04129', '09746', '09217', '04124', '09220', '09746', '09296', '09299', '09080', '09062', '09252', '09742', '09724', '09022', '09299', '09791', '09080', '04132', '09295', '09773', '09265', '09717', '04106', '09011', '04104', '04155', '09728', '04153', '09253', '04162', '09792', '04161', '09765', '04107', '09792', '04153', '04117', '09014', '09075', '09241', '09084', '09252', '09725', '04155', '09729', '09739', '09232', '04136', '09099', '09075', '04134', '09764', '09074', '09760', '09082', '04106', '04166', '09093', '09742', '09279', '09237', '04162', '04177', '09015', '09250', '09093', '04136']
+['09252', '09706', '09738', '09235', '09791', '09240', '09091', '04110', '09792', '09791', '04158', '09246', '09053', '04106', '09093', '09205', '09780', '04153', '09012', '09027', '04177', '09217', '09002', '09227', '04132', '09237', '04173', '09212', '04134', '09721', '09097', '04113', '09001', '09070', '09042', '09074', '09100', '09091', '09047', '09232', '04113', '09749', '09286', '04117', '09725', '09745', '09095', '09797', '09747', '09773', '09099', '09240', '09222', '09792', '09792', '04136', '09043', '09071', '04173', '09742', '04162', '04134', '09002', '09262', '09225', '09707', '09224', '09010', '09747', '04177', '09048', '09798', '09011', '09722', '09030', '04117', '04122', '09246', '09798', '09780', '09217', '09780', '09032', '04129', '09725', '04120', '09002', '09269', '09097', '09053', '09038', '09722', '09011', '04171', '09706', '09730', '04174', '09237', '09002', '09237', '09049', '09274', '04174', '09075', '04173', '09250', '09240', '09739', '09783', '09759', '09096', '09272', '09282', '09237', '09297', '09097', '04121', '09747', '09274', '09794', '04127', '04166', '09256', '09255', '09278', '09067', '09707', '09799', '09280', '09075', '09067', '09763', '09764', '04140', '09383', '09765', '09780', '09001', '04180', '04179', '09244', '04122', '09276', '09077', '09780', '09730', '09289', '04129', '09221', '04122', '09054', '09799', '09241', '04139', '09209', '09202', '09739', '09213', '04111', '09792', '09229', '04135', '09240', '09274', '09248', '04159', '09017', '09707', '04118', '09213', '04118', '09778', '09221', '09027', '09090', '09093', '04120', '04121', '09759', '09784', '09728', '09070', '04140', '09031', '04136', '09245', '09718', '04113', '09025', '09286', '09028', '04157', '09237', '09745', '04127', '04127', '09278', '09286', '09799', '09028', '09776', '09747', '09759', '09209', '09063', '09749', '09267', '09023', '04110', '09011', '09025', '04179', '04173', '09764', '09022', '04272', '04157', '04135', '09085', '04132', '09100', '04170', '09232', '09224', '09049', '09262', '04132', '04138', '04111', '04138', '09038', '09780', '04161', '04121', '04139', '09765', '04129', '09765', '09747', '04118', '09252', '04122', '04151', '04126', '04158', '04151', '09068', '09017', '04121', '09778', '04117', '09287', '09090', '04166', '09239', '04138', '04404', '09738', '04132', '09276', '09784', '09794', '09096', '09239', '04122', '09248', '09296', '09235', '09778', '09237', '09041', '04155', '09289', '09798', '09051', '04108', '04272', '09097', '04174', '09742', '09246', '04120', '04138', '09221', '09068', '09738', '09039', '09093', '09087', '09280', '09762', '09746', '09039', '04108', '09044', '09280', '04121', '09747', '04113', '04122', '09004', '09031', '09780', '09745', '09241', '09022', '09763', '09221', '09240', '04158', '09240', '09248', '09246', '09786', '09024', '04136', '09798', '09085', '09264', '04173', '09721', '09042', '09077', '04139', '09287', '09224', '09272', '09256', '09297', '09734', '04108', '09089', '09217', '09212', '09005', '09074', '09269', '09274', '09038', '09286', '09025', '09222', '04139', '09031', '09721', '09232', '09016', '09212', '09721', '09258', '09780', '09717', '09721', '09214', '09770', '04118', '09798', '09288', '09039', '09232', '09053', '09799', '04138', '09077', '09095', '09287', '09710', '09297', '09001', '04155', '09235', '09208', '09765', '04179', '09795', '09271', '09252', '09739', '04120', '09258', '09012', '09736', '09289', '09232', '09799', '09046', '04111', '09224', '09253', '04106', '09010', '04161', '09090', '04157', '09232', '04122', '09262', '09279', '09020', '09075', '04173', '09070', '04135', '09085', '04117', '09707', '04106', '09080', '09721', '04106', '04129', '09717', '04155', '04134', '04103', '09206', '09742', '09798', '04155', '09749', '09218', '09717', '09728', '09029', '09027', '04151', '09093', '04161', '09287', '04120', '04129', '04117', '04129', '09043', '04171', '04129', '09797', '04121', '09089', '04126', '04122', '09096', '09213', '04173', '09786', '09202', '09794', '09232', '09718', '04104', '09054', '09085', '09042', '09038', '09383', '09799', '04134', '09043', '09241', '04139', '04136', '09707', '04178', '09765', '09010', '09041', '09084', '09292', '09208', '04161', '09299', '09742', '04139', '04140', '09058', '09765', '04155', '09233', '09014', '09010', '09023', '09012', '09295', '09776', '04173', '09760', '09791', '04126', '09053', '09276', '09739', '09289', '09063', '04120', '09250', '09730', '09795', '09718', '09238', '09071', '09045', '04176', '09280', '09025', '04151', '09055', '09231', '09044', '09206', '09054', '09300', '09217', '09012', '04179', '04113', '04134', '09213', '09049', '09218', '09202', '09706', '09260', '09287', '09725', '09031', '09798', '09046', '09012', '09050', '04158', '09029', '09778', '04173', '09232', '09041', '04103', '09232', '04157', '09749', '09068', '09739', '04129', '09746', '09217', '04124', '09220', '09710', '09296', '09299', '09080', '09062', '09269', '09742', '09724', '09022', '09203', '09791', '09080', '04136', '09246', '09773', '09265', '09717', '04106', '09011', '04103', '04155', '09728', '04120', '09295', '04162', '09792', '04161', '09765', '04107', '09792', '04120', '04117', '09001', '09075', '09241', '09084', '09252', '09725', '04155', '09729', '09739', '09232', '04121', '09099', '09075', '04134', '09764', '09074', '09760', '09082', '04139', '04166', '09093', '09742', '09297', '09237', '04162', '04177', '09015', '09250', '09093', '04136']
+Calculating evaluation metrics...
+Accuracy on the test set: 0.8569
+Batch Size:  8
+Number of epochs:  400
+Learning Rate:  5e-05
+
+JOB STATISTICS
+==============
+Job ID: 12187364
+Cluster: snellius
+User/Group: shossain/shossain
+State: RUNNING
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 6-04:03:44 core-walltime
+Job Wall-clock time: 09:15:14
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 180.00 GB (180.00 GB/node)
+WARNING: Efficiency statistics can only be obtained after the job has ended as seff tool is based on the accounting database data.

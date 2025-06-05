@@ -15,10 +15,10 @@ from transformers import Pix2StructProcessor, Pix2StructForConditionalGeneration
 IMAGE_FOLDER = "/home/shossain/inhouse_project/HG_EGG/HG_Data/training_data"  # Replace with the actual path to your image folder
 CSV_FILE = "/home/shossain/inhouse_project/HG_EGG/HG_Data/training_data_label.csv"      # Replace with the actual path to your CSV file
 MODEL_NAME = "google/pix2struct-base"
-BATCH_SIZE = 16
+BATCH_SIZE = 8
 GRADIENT_ACCUMULATION_STEPS = 4  # Accumulate gradients over 8 micro-batches (effective batch size = 8)
 LEARNING_RATE = 5e-5
-NUM_EPOCHS = 100
+NUM_EPOCHS = 400
 OUTPUT_DIR = "/home/shossain/inhouse_project/HG_EGG/HG_Data/pix2struct_eggshell_digits"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
@@ -86,7 +86,7 @@ accumulation_steps = GRADIENT_ACCUMULATION_STEPS
 model.train()
 optimizer.zero_grad()
 best_val_loss = float('inf')  # Initialize best validation loss
-patience = 10  # Number of epochs to wait for improvement
+patience = 20  # Number of epochs to wait for improvement
 no_improve_count = 0
 
 for epoch in range(NUM_EPOCHS):
@@ -197,3 +197,7 @@ print(all_ground_truths)
 print("Calculating evaluation metrics...")
 accuracy = accuracy_score(all_ground_truths, all_predictions)
 print(f"Accuracy on the test set: {accuracy:.4f}")
+
+print("Batch Size: ", BATCH_SIZE)
+print("Number of epochs: ", NUM_EPOCHS)
+print("Learning Rate: ",LEARNING_RATE)
